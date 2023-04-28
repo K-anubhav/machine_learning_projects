@@ -26,8 +26,15 @@ This repository showcases 19 machine learning projects covering EDA, performance
 
 ## Description
 
-This repository contains above mentioned 19 machine learning projects that were completed. Each project is designed to demonstrate proficiency in various machine learning techniques, from exploratory data analysis to recommendation systems.
+This repository contains the code and files for a collection of 19 machine learning projects that are mentioned above. These projects cover a wide range of topics and techniques in machine learning and are designed to help you gain insights and inspiration for your own projects.
 
+The projects include exploratory data analysis, text processing using TFIDF vectorizer, implementing KNN and Naive Bayes classifiers, applying decision trees and random forest, clustering on graph datasets, recommendation systems using truncated SVD, and more.
+
+In addition to the project code, this repository also includes README files that provide an overview of each project, what it does, and how it works. These README files are an important step to make sure others can understand your projects and how to use them.
+
+To get started, simply download the code and files for the project(s) you are interested in and follow the installation and usage instructions provided in the README files. If you have any questions or feedback, feel free to open an issue or contribute to the project.
+
+Thank you for your interest in these machine learning projects!
 ## Table of Contents
 
 1. Installation
@@ -41,7 +48,7 @@ This repository contains above mentioned 19 machine learning projects that were 
 Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/[your-username]/machine-learning-projects.git
+git clone https://github.com/K-anubhav/machine-learning-projects.git
 ```
 
 Navigate to the project folder and install the required dependencies:
@@ -61,8 +68,7 @@ Contributions are welcome. Please open an issue or submit a pull request with an
 
 ## Credits
 
-- [Your Name](https://github.com/[your-username]) - author and project completion
-- [Data Science Certification Program](https://example.com) - course and project guidance
+- Anubhav K. (https://github.com/K-anubhav) - author and project completion
 
 ## License
 
