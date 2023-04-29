@@ -21,7 +21,7 @@ This repository showcases 19 machine learning projects covering EDA, performance
 15. SQL Assignment on IMDB data
 16. Self Case Study 1
 17. Writing blog 1
-18 . Self Case Study 2
+18. Self Case Study 2
 19. Writing blog 2
 
 ## Description
