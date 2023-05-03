@@ -1,5 +1,5 @@
 # machine_learning_projects
-This repository showcases 19 machine learning projects covering EDA, performance metrics, decision trees, clustering, recommendation systems, and more. Built using Python, Scikit-Learn, and TensorFlow, these projects show the practical applications of data science in solving real-world problems. Gain insights, Inspiration for your projects in repo.
+This repository showcases 15 machine learning projects covering EDA, performance metrics, decision trees, clustering, recommendation systems, and more. Built using Python, Scikit-Learn, and TensorFlow, these projects show the practical applications of data science in solving real-world problems. Gain insights, Inspiration for your projects in repo.
 
 
 # Machine Learning Projects
@@ -19,14 +19,10 @@ This repository showcases 19 machine learning projects covering EDA, performance
 13. Microsoft Malware Detection
 14. Facebook Friend Recommendation
 15. SQL Assignment on IMDB data
-16. Self Case Study 1
-17. Writing blog 1
-18. Self Case Study 2
-19. Writing blog 2
 
 ## Description
 
-This repository contains the code and files for a collection of 19 machine learning projects. These projects cover a wide range of topics and techniques in machine learning and are designed to help you gain insights and inspiration for your own projects.
+This repository contains the code and files for a collection of 15 machine learning projects. These projects cover a wide range of topics and techniques in machine learning and are designed to help you gain insights and inspiration for your own projects.
 
 The projects include exploratory data analysis, text processing using TFIDF vectorizer, implementing KNN and Naive Bayes classifiers, applying decision trees and random forest, clustering on graph datasets, recommendation systems using truncated SVD, and more.
 
