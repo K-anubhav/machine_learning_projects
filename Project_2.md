@@ -1,3 +1,5 @@
+# Implementing TFIDF vectorizer
+
 # Objective:
 
 The objective of this project was to build a custom implementation of the Term Frequency-Inverse Document Frequency (TF-IDF) vectorizer and compare its results with Sklearn's implementation. The project aimed to show the importance of the TF-IDF vectorizer in natural language processing tasks and to demonstrate how to create a sparse matrix representation of a text corpus.
